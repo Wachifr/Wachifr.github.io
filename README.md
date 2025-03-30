@@ -14,12 +14,12 @@ _Ingeniero de Sistemas e Informática 📌 Universidad Continental._
 
 ### Proyectos: 
 
-_⚙️ Instalación de CCTV en Centros comerciales (Imperial Plaza, Sumaq) Cusco 
+⚙️ Instalación de CCTV en Centros comerciales (Imperial Plaza, Sumaq) Cusco 
 
 ### 📞 Contacto
 
-_ www.linkedin.com/in/washington-olarte-velasquez-108a62253
-_ 📧Email: 23976963@contienental.edu.pe
+www.linkedin.com/in/washington-olarte-velasquez-108a62253
+📧Email: 23976963@contienental.edu.pe
 
 
 

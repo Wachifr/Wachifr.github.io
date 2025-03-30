@@ -6,10 +6,10 @@ _Ingeniero de Sistemas e Informática 📌 Universidad Continental._
 
 ## Sobre mi 🚀
 
-_🛠 Tecnico informático.
-_📋 8vo Ciclo en la Universidad Continental._
-_⌨️ Especialista en CCTV y sistemas de seguridad._
-_ 📖 Aprendiendo CCNA 1 versión 7.02 cisco_
+🛠 Tecnico informático.
+📋 8vo Ciclo en la Universidad Continental._
+⌨️ Especialista en CCTV y sistemas de seguridad._
+📖 Aprendiendo CCNA 1 versión 7.02 cisco_
     
 
 ### Proyectos: 

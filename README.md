@@ -23,6 +23,7 @@ Ingeniero de Sistemas e Informática 📌 Universidad Continental.
 ### 📞 Contacto
 
 www.linkedin.com/in/washington-olarte-velasquez-108a62253
+
 📧Email: 23976963@contienental.edu.pe
 
 
